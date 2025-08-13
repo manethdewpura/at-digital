@@ -18,7 +18,7 @@ function Home() {
             We crush your competitors, goals, and sales records - without the
             B.S.
           </p>
-          <Button>Get free consultation</Button>
+          <Button>GET FREE CONSULTATION</Button>
         </div>
       </div>
       <main>
@@ -40,7 +40,7 @@ function Home() {
               methods to respond to different intents shown by your potential
               customers who interact with your business online.
             </p>
-            <Button>Learn More</Button>
+            <Button>LEARN MORE</Button>
           </div>
         </section>
         <section className="flex flex-col md:flex-row items-center gap-12 py-16 px-8 lg:px-[180px] max-w-[1800px] mx-auto">
@@ -62,7 +62,7 @@ function Home() {
               We provide a clear concept and strategic overview to find the most
               efficient model for your business.
             </p>
-            <Button>Learn More</Button>
+            <Button>LEARN MORE</Button>
           </div>
         </section>
 
