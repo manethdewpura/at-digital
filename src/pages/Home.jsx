@@ -1,7 +1,7 @@
 import TopNavigation from "../components/TopNavigation.jsx";
 import Button from "../components/Button.jsx";
 import Footer from "../components/Footer.jsx";
-import FAQCard from "../components/FaqCard.jsx";
+import FAQCard from "../components/FAQCard.jsx";
 
 function Home() {
   return (
