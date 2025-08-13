@@ -1,6 +1,6 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { Link } from "react-router-dom";
-import HamburgerMenu from "./HamburgerMenu";
+import HamburgerMenu from "./HamburgerMenu.jsx";
 import { FiMenu } from "react-icons/fi";
 
 function TopNavigation() {
